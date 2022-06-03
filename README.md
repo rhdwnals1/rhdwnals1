@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+### ⚒Tools⚒
+   #### <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
+
 <!--
 **rhdwnals1/rhdwnals1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-⚒Tools⚒
-   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=JavaScript&logoColor=#F7DF1E"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -1,7 +1,12 @@
 ## My name is Celina 🌴
 
-### ⚒Tools
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
+### ✍🏻 Skills
+
+
+* <span> <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;<img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=JavaScript&logoColor=white"/> </span> 
+* <span><img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=Amazon&logoColor=white"/> </span>
+
+
 
 
 

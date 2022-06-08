@@ -13,11 +13,17 @@
 
 * <span><a href="https://www.notion.so/geolmii/Front-end-Developer-c2a7aab9fd194a7ebfc6836aad07904b">[ Front-end Developer, 공주민 ]</span>
 
+  
+### 📝 Stats
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhdwnals1&show_icons=true&theme=dracula)
 
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhdwnals1&layout=compact&theme=dracula) -->
 
-
-
-
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+  
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhdwnals1%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+ -->
 
 
 <!--

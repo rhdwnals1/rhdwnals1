@@ -1,4 +1,4 @@
-## My name is Celina 🌴
+## 🐣 My name is Celina 🐥
 
 ### 🙋🏻‍♀️ Celina
 *  <span><a href="https://github/rhdwnals1"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> &nbsp; <a href="mailto:reo.momm@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp; <a href="https://velog.io/@rhdwnals1"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a></span>

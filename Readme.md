@@ -6,7 +6,7 @@
 ### ✍🏻 Skills
 
 * <span><img src="https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=JavaScript&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white"/></span> 
-* <span> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-3178C6?style=for-the-badge&logo=CSS3&logoColor=white"/></span> 
+* <span> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/CSS3-3178C6?style=for-the-badge&logo=CSS3&logoColor=white"/>  &nbsp; <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></span> 
 * <span><img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"/> </span>
 
 ### 💡 About me
